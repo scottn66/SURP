@@ -3,7 +3,7 @@ import pandas as pd
 
 # Directory containing the batch result files
 data_dir = "../dat/batch_results"
-additional_file = "../dat/basic_dataframe_with_content.csv"
+additional_file = "../dat/article_text_contents.csv"
 output_file = "../dat/merged_df.csv"
 
 # List to hold DataFrames
